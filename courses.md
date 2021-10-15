@@ -1,3 +1,7 @@
+---
+layout: page
+title: Courses
+---
 
 - Machine Learning - Stanford University, Coursera 
 - Neural Networks and Deep Learning - Stanford University, Coursera
