@@ -51,6 +51,7 @@ layout: page
     </div>
     {% endif %}
 
+    <h2 class="post-title">{{ post.title | strip_html }}</h2>
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.content }}
